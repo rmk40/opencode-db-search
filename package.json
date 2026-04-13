@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
   "name": "opencode-db-search",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Search and inspect the OpenCode SQLite database from the command line",
   "type": "module",
   "bin": {
